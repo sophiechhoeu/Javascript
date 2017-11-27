@@ -17,7 +17,29 @@
 - Includes Javascript function examples and testing with Jest
 - To do list terminal application via node js documentation (including Readline(rl) and filesave(fs), ejs and creating a server)
 
-  ***used yarn to test in terminal***
+
+### To run examples
+
+Node.js to do list run:
+```
+  yarn start
+```
+in terminal
+
+***control c to terminate application***
+
+Node app.js to run html CSS application:
+```
+  node app.js
+```
+***Make changes in CSS which will be reflected in localhost due to nodemon dev dependencies***
+
+Jest test:
+
+```
+yarn test
+```
+
 
 ## Additional information
 * [Mozilla developer docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
