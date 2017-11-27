@@ -20,26 +20,28 @@
 
 ### To run examples
 
-Node.js to do list run:
+**Node.js to do list run**:
 ```
   yarn start
 ```
 in terminal
 
-***control c to terminate application***
+*control c to terminate application*
 
-Node app.js to run html CSS application:
+**Node app.js to run html CSS application**:
 ```
   node app.js
 ```
-***Make changes in CSS which will be reflected in localhost due to nodemon dev dependencies***
+  *Make changes in CSS which will be reflected in localhost due to nodemon dev dependencies*
 
-Jest test:
+  *control c to terminate application*
+
+**Jest test:**
 
 ```
 yarn test
 ```
-
+*control c to terminate application*
 
 ## Additional information
 * [Mozilla developer docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
